@@ -1,6 +1,4 @@
 # 💫 About Me:
-"Automating and Streamlining Software Delivery with DevOps Magic 🚀"
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kuldeepak-phad-ba6845145) 
@@ -10,10 +8,6 @@
 
 # Certifications:
 <img src='https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png'  style="height: 200px;"/> <img src='https://www.iteindia.in/wp-content/uploads/2019/05/RHCSA.png' style="height: 200px;"/>
-
-
-
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kuldeepak1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
