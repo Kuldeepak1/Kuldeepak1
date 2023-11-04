@@ -9,18 +9,10 @@
 # Certifications:
 <img src='https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png'  style="height: 200px;"/> <img src='https://www.iteindia.in/wp-content/uploads/2019/05/RHCSA.png' style="height: 200px;"/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kuldeepak1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kuldeepak1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuldeepak1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kuldeepak1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
